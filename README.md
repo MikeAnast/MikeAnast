@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MikeAnast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAnast&count_private=true&show_icons=true)
+![MikeAnast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAnast&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **MikeAnast/MikeAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
