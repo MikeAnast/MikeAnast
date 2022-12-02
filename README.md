@@ -1,5 +1,4 @@
-
-![MikeAnast's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAnast&count_private=true&show_icons=true&theme=dracula&count_private=true)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAnast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
