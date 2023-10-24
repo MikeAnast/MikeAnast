@@ -2,6 +2,8 @@
 
  -->
 ⛰️ 🏕️ 🏔️
+![HTB Badge](https://app.hackthebox.com/profile/12253)
+
 <!-- **MikeAnast/MikeAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![HTB Badge](https://app.hackthebox.com/profile/12253)
 Here are some ideas to get you started:
