@@ -4,3 +4,4 @@
 
 Checkout my challenge <img src="https://github.com/MikeAnast/MikeAnast/assets/24854891/1475f123-02c9-4f8c-8f15-1c17d5360637" width="50" height="50" /> [Link](https://hackmyvm.eu/challenges/challenge.php?c=059)
 
+[![Icon](https://github.com/MikeAnast/MikeAnast/assets/24854891/1475f123-02c9-4f8c-8f15-1c17d5360637)](https://hackmyvm.eu/challenges/challenge.php?c=059)
